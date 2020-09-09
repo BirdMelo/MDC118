@@ -8,7 +8,9 @@ const int SEXO_MASCULINO = 1;
 int main() {
 
     printf("%d", numero);
+   
     printf("%c", ch);
+    
     return 0;
 
 }
